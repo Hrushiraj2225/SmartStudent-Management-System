@@ -135,8 +135,20 @@ private static final String PASSWORD = "your_password";
 
 ## 📸 Screenshots
 
-> Add your screenshots here after taking them!
+### 🏠 Home Screen
+![Home Screen](screenshots/home.png)
 
+### ➕ Add Student Form
+![Add Student Form](screenshots/add-student.png)
+
+### 📋 Student List Table
+![Student List](screenshots/student-list.png)
+
+### 🔍 Search Feature
+![Search Feature](screenshots/search.png)
+
+### 🔐 Admin Login
+![Admin Login](screenshots/login.png)
 ---
 
 ## 📊 Grade System
